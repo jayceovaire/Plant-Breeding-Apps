@@ -4,6 +4,13 @@ Thanks for Dowloading this software! I hope it helps you create your own amazing
 This app uses basic Mendelian inheritance to simulate breeding cannabis plants.
 _____________________________________________________________________________________________________________
 
+HOW TO RUN
+
+Download the .zip file and extract to the desired location
+In Folder Plant_breeding_App_Complex you should find a .exe file with the same name that you can run
+
+_____________________________________________________________________________________________________________
+
 DOMINANCE AND RECESSIVE BUTTONS
 
 When using the software make sure to select an option for every trait in every row. 
